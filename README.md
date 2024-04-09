@@ -1,4 +1,4 @@
-# Biografia de Richard
+
 
 ## Sobre Mim
 
