@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Olá! Meu nome é Richard, tenho 19 anos e sou um entusiasta da programação. Atualmente, resido em Belo Horizonte, Minas Gerais, Brasil. Sou apaixonado por tecnologia desde muito jovem e estou constantemente buscando aprender e aprimorar minhas habilidades na área.
+Olá! Meu nome é Richard, tenho 19 anos e sou um aprendiz da programação e tudo envolvendo tecnologia. Atualmente, resido em Belo Horizonte, Minas Gerais, Brasil. Sou apaixonado por tecnologia desde muito jovem e estou constantemente buscando aprender e aprimorar minhas habilidades na área.
 
 ## Formação Acadêmica
 
