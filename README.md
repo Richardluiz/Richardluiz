@@ -244,7 +244,7 @@
 </td>
 <td>
 <!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-<a href="https://www.last.fm/pt/user/Marv3rick" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=Marv3rick&width=400"/></a>
+<a href="https://www.last.fm/pt/user/Marv3rick" target="_blank"><img align="right" width="400px" height="400px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=Marv3rick&width=500"/></a>
 </td>
 </tr>
 <tr>
@@ -256,5 +256,5 @@
 <div>
 
 </div>
-
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Richardluiz"/>
 -----
