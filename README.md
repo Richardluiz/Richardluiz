@@ -25,18 +25,12 @@
 </td>
 <td><a href="https://www.linkedin.com/in/Richard Luiz/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="http://lattes.cnpq.br/534523422452" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/lattes2.png?raw=true" width="50px" height="50px"/></a>
-</td>
 <!--<td><a href="https://slack.com/app_redirect?channel=UVD9N6VCL"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/slack.png?raw=true" width="50px" height="50px"/></a>
 </td>-->
 <td><a href="https://discordapp.com/users/marv3rick" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/discord2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.skoob.com.br/perfil/Richard" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/skoob2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/scholar2.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td><a href="https://calendly.com/richard/" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/calendar2.png?raw=true" width="50px" height="50px"/></a>
-</td>
+
+
 </tr>
 <tr>
  <td align="center" colspan="11"></td>
