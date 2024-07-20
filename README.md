@@ -225,8 +225,10 @@
  
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify">
+<summary><img height="20" alt="GIF" src="https://github.com/Richardluiz/Richardluiz/blob/main/img/spotify.gif?raw=true"/> Richard's Spotify Data</summary>
+<img src="<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=bcboxx">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=bcboxx" alt="Data Card for Spotify">
+</a>" alt="Data Card for Spotify">
 </details>
 </div>
 
