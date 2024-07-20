@@ -69,10 +69,9 @@
 - :atom: Sou amador em Java, veja alguns códigos que fiz <a href="https://github.com/Richardluiz/Trabalho-final-LP-e-POO" target="_blank">aqui</a>. (Site de compra de games em Java <a href="https://github.com/joaopauloaramuni/c/blob/main/Aramuni.c" target="_blank">Desktop</a>? :thinking:)<br />
 - :memo: Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank">aqui</a>.<br />
 - :soccer: Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
-- :basketball: Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a>, música , correr .<br />
-- :speech_balloon: Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
+- :basketball: Meus hobbies são </a>,Jogar no pc. Minha steam caso voce queira me adicionar e jogar comigo <a href="https://steamcommunity.com/profiles/76561198374523545/" </a>, escutar música , dar uma corridinha, cozinhar , assistir filmes, series e animes  .<br />
 - :mailbox: Para me encontrar, esse é meu <a href="mailto:richardluizborba@gmail.com.com" target="_blank">e-mail</a> pessoal.<br />
-- :calendar: Essa é minha <a href="https://calendly.com/richard/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
+
 
 </p>
 </div>
