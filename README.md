@@ -69,7 +69,7 @@
 - :atom: Sou amador em Java, veja alguns códigos que fiz <a href="https://github.com/Richardluiz/Trabalho-final-LP-e-POO" target="_blank">aqui</a>. (Site de compra de games em Java <a href="https://github.com/joaopauloaramuni/c/blob/main/Aramuni.c" target="_blank">Desktop</a>? :thinking:)<br />
 - :memo: Veja alguns artigos que publiquei <a href="https://scholar.google.com.br/citations?user=OARYxSYAAAAJ&hl=pt-BR&oi=ao" target="_blank">aqui</a>.<br />
 - :soccer: Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
-- 🎮: Meus hobbies são  </a> Games, escutar música , dar uma corridinha, cozinhar , assistir filmes, series e animes  .<br />
+- 🎮: Meus hobbies são  </a> Games, escutar música, estudar , dar uma corridinha, cozinhar , assistir filmes, series e animes  .<br />
 - :mailbox: Para me encontrar, esse é meu <a href="mailto:richardluizborba@gmail.com.com" target="_blank">e-mail</a> pessoal.<br />
 
 
