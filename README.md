@@ -237,14 +237,14 @@
 </tr> 
 <tr>
 <td>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=bcboxx&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 </td>
 <td>
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10"/>
 </td>
 <td>
 <!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
-<a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
+<a href="https://www.last.fm/pt/user/Marv3rick" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=Marv3rick&width=400"/></a>
 </td>
 </tr>
 <tr>
