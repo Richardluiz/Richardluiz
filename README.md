@@ -83,7 +83,7 @@
 </td>
 <td>
 <div>
-<img alt="GIF" src="https://github.com/Richardluiz/Richardluiz/blob/main/Git%20hub%20perfil/github%20perfil%202.gif "/>
+<img alt="GIF" src="https://github.com/Richardluiz/Richardluiz/blob/main/Git%20hub%20perfil/Imagem%20nt3.gif "/>
 </div>
 </td>
 </tr>
