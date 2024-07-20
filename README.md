@@ -51,7 +51,7 @@
 -----
 
 <div>
-<img alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
+<img alt="GIF" src="https://github.com/Richardluiz/Richardluiz/blob/main/Git%20hub%20perfil/Github%20perfil.gif)" width="340px" height="520px"/>
 </div>
 </td>
 </tr>
