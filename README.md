@@ -2,7 +2,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/Richardluiz/Richardluiz/blob/main/img/header.jpg"/>
+<img align="center" alt="Header" src="[https://github.com/Richardluiz/Richardluiz/blob/main/img/header.jpg](https://github.com/Richardluiz/Richardluiz/blob/main/Git%20hub%20perfil/header.jpg)"/>
 </div>
 
 -----
