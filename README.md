@@ -205,7 +205,7 @@
 <img alt="GitHub Top Langs" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Richardluiz&theme=github_dark"/>
 </td>
 <td>
-<img alt="GitHub Details" width="400px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Richardluiz&theme=github_dark"/>
+<img alt="GitHub Details" width="550px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Richardluiz&theme=github_dark"/>
 </td>
 </tr>
 <tr>
