@@ -83,7 +83,7 @@
 </td>
 <td>
 <div>
-<img alt="GIF" src="https://github.com/Richardluiz/Richardluiz/blob/main/Git%20hub%20perfil/Imagem%20nt3.gif "width="400px" height="700px"/>
+<img alt="GIF" src="https://github.com/Richardluiz/Richardluiz/blob/main/Git%20hub%20perfil/Imagem%20nt3.gif "width="600px" height="500px"/>
 </div>
 </td>
 </tr>
