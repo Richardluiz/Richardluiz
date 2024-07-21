@@ -60,7 +60,7 @@
 - 👨‍🎓: Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>estudante</code> da Ciência da Computação.<br />
 - 👨‍🎓: Trabalhei na EJEF, fui auxiliar operacional no <a href="https://www.tjmg.jus.br/portal-tjmg/" target="_blank">XP Educação</a> />
 - 🎻: Fui Assprom e monitor de Violoncelo na Orquestra Jovem do Tribunal de Justiça de Minas Gerais/>
-- :atom: Sou amador em Java, veja alguns códigos que fiz <a href="https://github.com/Richardluiz/Trabalho-final-LP-e-POO" target="_blank">aqui</a>. (Site de compra de games em Java <a href="https://github.com/joaopauloaramuni/c/blob/main/Aramuni.c" target="_blank">Desktop</a>? :thinking:)<br />
+- :atom: Sou amador em Java, veja alguns códigos que fiz <a href="https://github.com/Richardluiz/Trabalho-final-LP-e-POO" target="_blank">aqui</a>. (Site de compra de games em Java <a href="https://github.com/joaopauloaramuni/c/blob/main/Aramuni.c" target="_blank">Desktop</a> :thinking:)<br />
 - :soccer: Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
 - 🎮: Meus hobbies são  </a> Games, escutar música, estudar , dar uma corridinha, cozinhar , assistir filmes, series e animes  .<br />
 - :mailbox: Para me encontrar, esse é meu <a href="mailto:richardluizborba@gmail.com.com" target="_blank">e-mail</a> pessoal.<br />
