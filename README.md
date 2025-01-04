@@ -39,7 +39,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou o <code>Richard</code>, tenho 19 anos, moro em BH e curso ciências da computação. Atualmente sou <code>estudante</code> no curso de Ciência da Computação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> <a ></a>.</i> 👨‍🎓:<br />
+<i><b>Olá</b> :wave:, sou o <code>Richard</code>, tenho 20 anos, moro em BH e curso ciências da computação. Atualmente sou <code>estudante</code> no curso de Ciência da Computação no <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a> <a ></a>.</i> 👨‍🎓:<br />
 </div>
 
 -----
